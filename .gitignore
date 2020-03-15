@@ -19,3 +19,4 @@ doc/Memoria.tex
 *.log
 *.blg
 *.bbl
+exec/hypercube
