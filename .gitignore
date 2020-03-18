@@ -20,3 +20,4 @@ doc/Memoria.tex
 *.blg
 *.bbl
 exec/hypercube
+*.png
